@@ -1,6 +1,6 @@
 ### 1. **Login_Profile:**
    - **Description**: A component where users input a username and data, which is displayed on a profile page after login. It demonstrates basic form handling and data persistence.
-   **Context API Use**: Store `user` data in context after login, access it across components, and provide a method to update or reset the data.
+   - **Context API Use**: Store `user` data in context after login, access it across components, and provide a method to update or reset the data.
      
 ### 2. **Simple User Authentication**
    - **Description**: Create a basic login system where you can store the user's authentication state (logged in or not) in the global context. Manage the user's login/logout functionality and protect certain routes based on the authentication status.
